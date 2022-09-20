@@ -17,21 +17,19 @@ organizations:
 bio: My research interests include statistics, survey sampling, machine learning.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spatial Statistics
+  - Survey Statistics
+  - Machine Learning
+  - Computational Statistics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Statistics
+      institution: The University of Chicago
+      year: 2002
+    - course: BSc in Mathematics
+      institution: Fudan University, China
+      year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,4 +68,3 @@ user_groups:
 
 Zhengyuan Zhu is College of Liberal Arts and Sciences Dean’s Professor, Director of the Center for Survey Statistics Methodology (CSSM), and Professor in the Department of Statistics. He has expertise in spatial statistics, survey statistics, time series analysis, multivariate and functional data analysis, and machine learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
