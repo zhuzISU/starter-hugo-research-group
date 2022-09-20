@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zhengyuan Zhu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Statistics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Iowa State University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include statistics, survey sampling, machine learning.
 
 interests:
   - Artificial Intelligence
@@ -68,6 +68,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhengyuan Zhu is College of Liberal Arts and Sciences Dean’s Professor, Director of the Center for Survey Statistics Methodology (CSSM), and Professor in the Department of Statistics. He has expertise in spatial statistics, survey statistics, time series analysis, multivariate and functional data analysis, and machine learning.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
